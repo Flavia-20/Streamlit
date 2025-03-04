@@ -1,0 +1,6 @@
+# https://toml.io/en/
+
+[theme]
+base="dark"
+
+
